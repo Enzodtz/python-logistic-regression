@@ -22,4 +22,4 @@ Please notice that you can also add more functionalities, such as `save()`, `loa
 
 ### Demo
 
-To see how you can use this model, refer to `example.py`.
+To see how you can use this model with all its functionalities, refer to `example.py`.
